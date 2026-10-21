@@ -1,0 +1,42 @@
+{
+    "joinChannels": [],
+    "deleteEmptyChannels": true,
+    "useSequentialNames": false,
+    "lastRoomNumber": 0,
+    "showDeleteWarning": true,
+    "userChannelFormat": "{username}'s Channel",
+    "sequentialChannelFormat": "-Room{number}-",
+    "messageDeleteTimes": {
+        "channel1": {
+            "id": "",
+            "minutes": 0
+        },
+        "channel2": {
+            "id": "",
+            "minutes": 0
+        },
+        "channel3": {
+            "id": "",
+            "minutes": 0
+        }
+    },
+    "webPort": 10102,
+    "webUIConfig": {
+        "siteName": "Drako Bot Admin Panel",
+        "tabNames": {
+            "voiceChannels": "Auto Voice Channels",
+            "messagePurge": "Message Auto-Delete",
+            "configEditor": "Configuration"
+        },
+        "theme": {
+            "primary": "#9c27b0",
+            "secondary": "#bb86fc",
+            "danger": "#cf6679",
+            "background": "#121212",
+            "cardBackground": "#1e1e1e",
+            "headerBackground": "#1e1e1e"
+        }
+    },
+    "channelTemplates": [],
+    "webHost": "127.0.0.1"
+}
